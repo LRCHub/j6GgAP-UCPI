@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "petrichor",
+  "base_artist": "AZKi",
+  "createdAt": "2025-12-18T07:10:32.894508Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Petrichor",
+      "artist": "Until The Ribbon Breaks",
+      "has_synced": false,
+      "path": "select/01_Petrichor_Until_The_Ribbon_Breaks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "How To Draw / Petrichor",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/02_How_To_Draw___Petrichor_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "How to Draw \u0000 Petrichor",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/03_How_to_Draw_\u0000_Petrichor_The_1975.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Petrichor",
+      "artist": "Phish",
+      "has_synced": false,
+      "path": "select/04_Petrichor_Phish.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Of Petrichor Weaves Black Noise",
+      "artist": "Ne Obliviscaris",
+      "has_synced": false,
+      "path": "select/05_Of_Petrichor_Weaves_Black_Noise_Ne_Obliviscaris.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Petrichor By Sulphur",
+      "artist": "Soilwork",
+      "has_synced": true,
+      "path": "select/06_Petrichor_By_Sulphur_Soilwork.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Petrichor",
+      "artist": "Brandon Boyd",
+      "has_synced": false,
+      "path": "select/07_Petrichor_Brandon_Boyd.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Petrichor",
+      "artist": "Ignea",
+      "has_synced": true,
+      "path": "select/08_Petrichor_Ignea.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Petrichor",
+      "artist": "Bearings",
+      "has_synced": false,
+      "path": "select/09_Petrichor_Bearings.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Petrichor",
+      "artist": "Cassyette",
+      "has_synced": false,
+      "path": "select/10_Petrichor_Cassyette.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Petrichor (Stripped)",
+      "artist": "Cassyette",
+      "has_synced": false,
+      "path": "select/11_Petrichor_(Stripped)_Cassyette.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "petrichor",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/pl_01_petrichor_AZKi.txt"
+    }
+  ]
+}
